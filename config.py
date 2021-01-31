@@ -1,9 +1,9 @@
 ######################################################
 # PLEASE CHANGE FOLLOWING CONFIGS ####################
-Twitch_Channel          = 'xxx_target_channel_name_xxx'
+Twitch_Channel          = 'kamiyanyan55'
 
-Trans_Username          = 'xxx_trans_user_name_xxx'
-Trans_OAUTH             = 'xxxx_oauth_for_trans_user_xxxx'
+Trans_Username          = 'kamiyan_bot'
+Trans_OAUTH             = 'oauth:91dtuj9qf1o9mgvvvfu4yvzc7f7jl6'
 
 #######################################################
 # OPTIONAL CONFIGS ####################################
